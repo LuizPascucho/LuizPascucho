@@ -1,3 +1,11 @@
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">Hi, my name is Luiz Fernando, I'm 25 years old and I'm a fullstack Java developer.<br><br>I'm looking for my first opportunity in technology.</p>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
