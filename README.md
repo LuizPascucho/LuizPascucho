@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Luiz Fernando, I'm 25 years old and I'm a fullstack Java developer.<br><br>I'm looking for my first opportunity in technology.</p>
+<p align="left">Hi, my name is Luiz Fernando Pascucho, I'm 25 years old and I'm a fullstack Java developer.<br><br>I'm looking for my first opportunity in technology.</p>
 
 ###
 
