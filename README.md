@@ -1,3 +1,7 @@
+<h1 align="left">Hi, I'm Luiz Fernando Pascucho! ✌️</h1>
+
+###
+
 <h2 align="left">About Me</h2>
 
 ###
