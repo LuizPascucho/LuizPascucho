@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, my name is Luiz Fernando Pascucho, I'm 25 years old and I'm a fullstack Java developer.<br><br>I'm looking for my first opportunity in technology.</p>
+<p align="left">Hi, my name is Luiz Fernando Pascucho, I'm 25 years old and I'm a fullstack Java developer 💻.<br><br>I'm looking for my first opportunity in technology.<br><br>I have a strong background in Java, MySql, Spring Boot, React and Typescript. I have hands-on experience in agile teams and am well versed in Scrum methodologies, allowing me to collaborate effectively and adapt quickly to project changes.<br><br>I recently completed Generation Brasil's Fullstack Java Developer bootcamp in 2024, where I further honed my technical skills. I am ready to apply my knowledge and make significant contributions to challenging projects in the technology field 📚.</p>
 
 ###
 
